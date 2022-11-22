@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennek4
-- 👀 I’m interested in: programming
-- 🌱 I’m currently learning: python
+- 👀 I’m interested in: computer programming
+- 🌱 I’m currently learning: web development
 - 📫 How to reach me: kentabanay@gmail.com
 
 <!---
