@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kennek4
+- 🖥️ Hi, I’m @kennek4
 - 🌱 I’m currently learning: data structures and algorithms, and web development
 - 📫 How to reach me: kentabanay@gmail.com
 
