@@ -21,7 +21,7 @@ Every project listed on my repositories page is built by me (unless stated other
 
 ###  📊 Stats 
 <!-- These are my GitHub stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kennek4&theme=transparent&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kennek4&theme=transparent&date_format=n%2Fj%5B%2FY%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <a href="https://github.com/kennek4/convoychat" target="_blank">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennek4&layout=compact&langs_count=8&card_width=320&theme=transparent" />
