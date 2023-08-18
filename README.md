@@ -2,7 +2,4 @@
 - 🌱 I’m currently learning: data structures and algorithms, and web development
 - 📫 How to reach me: kentabanay@gmail.com
 
-<!---
-kennek4/kennek4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![kennek4's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennek4&show_icons=true&theme=darcula)
