@@ -6,6 +6,7 @@ Every project listed on my repositories page is built by me (unless stated other
 ### 🛠️ Tools 
 
 <a href="" target="blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/html.png"/></a>
+<a href="" target="blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/css.png"/></a>
 <a href="" target="blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/javascript.png"/></a>
 <a href="" target="blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/python.png"/></a>
 <a href="" target="blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/java.png"/></a>
