@@ -8,7 +8,7 @@ Welcome to my GitHub! My name is Ken, and I am a Computer Science student from C
 
 ---
 
-### 🛠️ Languages and Tools 
+### 🛠️ Languages and Tools 🛠️
 <!-- Languages and Tools I have used and know -->
 <a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/html.png"/></a>
 <a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/css.png"/></a>
@@ -20,7 +20,7 @@ Welcome to my GitHub! My name is Ken, and I am a Computer Science student from C
 
 ---
 
-###  📊 Stats 
+###  📊 Stats 📊
 <!-- Daily Streak Stats -->
 <a href="https://git.io/streak-stats" target="_blank" style="margin: 20px">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=kennek4&theme=transparent&date_format=n%2Fj%5B%2FY%5D&mode=daily&card_width=375&hide_longest_streak=true&hide_border=true"/>
