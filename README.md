@@ -3,7 +3,7 @@
 Welcome to my GitHub! My name is Ken, and I am a Computer Science student from Canada. I build every project listed on my repositories page from the ground up. Thanks for stopping by!
 
 <a href="https://www.linkedin.com/in/ken-tabanay/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <!--LinkedIn Badge-->
-<a href="https://www.linkedin.com/in/ken-tabanay/" target="_blank"><img src="https://img.shields.io/badge/Resume-F40F02?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a> <!--Resume-->
+<a href="https://www.linkedin.com/in/ken-tabanay/" target="_blank"><img src="https://img.shields.io/badge/Resume-DC0F02?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a> <!--Resume-->
 <a href="https://leetcode.com/kennek4/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <!--LeetCode-->
 
 ---
