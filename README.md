@@ -21,13 +21,14 @@ Every project listed on my repositories page is built by me (unless stated other
 
 ###  📊 Stats 
 <!-- Daily Streak Stats -->
-<a href="https://git.io/streak-stats" target="_blank">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=kennek4&theme=transparent&date_format=n%2Fj%5B%2FY%5D&mode=daily&card_width=375&hide_longest_streak=true" />
+<a href="https://git.io/streak-stats" target="_blank" style="margin: 20px">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=kennek4&theme=transparent&date_format=n%2Fj%5B%2FY%5D&mode=daily&card_width=375&hide_longest_streak=true&" />
+  &nbsp
 </a>
 
 <!-- Most Common Languages Stats -->
 <a href="" target="_blank">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennek4&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennek4&layout=compact&langs_count=8&card_width=320&theme=transparent&" />
 </a>
 
 ---
