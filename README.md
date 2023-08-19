@@ -1,13 +1,13 @@
 
 ## 💻 Introduction 💻
-Hi, my name is Ken, and I am a Canadian university student studying computer science with a passion for programming and everything related to tech.
-Every project listed on my repositories page is built by me (unless stated otherwise)
+Hi, my name is Ken, and I am a Canadian university student studying Computer Science interested in programming.\
+Every project listed on my repositories page is built by me unless stated otherwise. Welcome to my GitHub!
 
 <a href="https://www.linkedin.com/in/ken-tabanay/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
-### 🛠️ Tools 
+### 🛠️ Languages and Tools 
 <!-- Languages and Tools I have used and know -->
 <a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/html.png"/></a>
 <a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/css.png"/></a>
