@@ -1,37 +1,35 @@
+# 💫 About Me 
+A student from Canada learning computer programming
 
-# Introduction 💻
-Welcome to my GitHub! My name is Ken, and I am a Computer Science student from Canada. I've built every project listed on my repositories page from the ground up. Thanks for stopping by!
 
-<a href="https://www.linkedin.com/in/ken-tabanay/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <!--LinkedIn Badge-->
-<a href="https://www.linkedin.com/in/ken-tabanay/" target="_blank"><img src="https://img.shields.io/badge/Resume-DC0F02?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a> <!--Resume-->
-<a href="https://leetcode.com/kennek4/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <!--LeetCode-->
+### 🌐 Socials 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ken-tabanay) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#FFA115)](https://leetcode.com/u/kennek4/)
 
-## Languages and Tools 🛠️
-<!-- Languages and Tools I have used and know -->
-<a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/html.png"/></a>
-<a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/css.png"/></a>
-<a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/javascript.png"/></a>
-<a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/python.png"/></a>
-<a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/java.png"/></a>
-<a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/git.png"/></a>
-<a href="" target="_blank"><img align="center" height="48" src="https://github.com/kennek4/kennek4/blob/main/icons/bash.png"/></a>
+### 📚 Tech Stack 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Stats 📊
-<div style="display: flex;">
-  
-  <!-- Daily Streak Stats -->
-  <a href="https://git.io/streak-stats" target="_blank" style="margin: 20px">
-    <img height=200 align="center" src="https://streak-stats.demolab.com?user=kennek4&theme=transparent&date_format=n%2Fj%5B%2FY%5D&mode=daily&card_width=375&hide_longest_streak=true&hide_border=true"/>
-  </a>
-  
-  <!-- Most Common Languages Stats -->
-  <a href="" target="_blank">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kennek4&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true"/>
-  </a>
-  
-</div>
+### 🛠 Tools
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+
+### Stats
+![](https://github-readme-stats.vercel.app/api?username=kennek4&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kennek4&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennek4&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-###### *All icons used are from https://icons8.com/* 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kennek4&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kennek4&icon=0&color=12)](https://visitcount.itsvg.in)
+
+#### 💰 Donate Links
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kennek4) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
