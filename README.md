@@ -17,7 +17,6 @@ I'm currently learning Kotlin and Android development.
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 ### Stats
-![](https://github-readme-stats.vercel.app/api?username=kennek4&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kennek4&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennek4&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
