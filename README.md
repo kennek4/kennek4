@@ -1,5 +1,6 @@
 # 💫 About Me 
-A student from Canada learning computer programming
+My name is Ken, and I am a student studying Computer Science. 
+I'm currently learning Kotlin and Android development. 
 
 
 ### 🌐 Socials 
