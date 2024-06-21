@@ -1,7 +1,8 @@
 # 💫 About Me 
-My name is Ken, and I am a student studying Computer Science. 
+My name is Ken, and I am a Computer Science student at the University of Alberta.
 I'm currently learning Kotlin and Android development. 
 
+---
 
 ### 🌐 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ken-tabanay) 
