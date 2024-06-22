@@ -1,5 +1,5 @@
 # 💫 About Me 
-My name is Ken, and I am a Computer Science student at the University of Alberta.
+My name is Ken, and I am a Computer Science student at the University of Alberta.<br>
 I'm currently learning Kotlin and Android development. 
 
 ---
